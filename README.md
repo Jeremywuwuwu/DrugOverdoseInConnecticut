@@ -3,8 +3,6 @@
 ## Overview
 An end to end analysis of drug overdose deaths in Connecticut from 2012 through 2018, combining exploratory data analysis of demographic, temporal, and geographic patterns with a Random Forest classifier built to predict whether fentanyl was present in a fatal overdose.
 
-Completed as the capstone project for ALY 6140 at Northeastern University.
-
 ## Motivation
 Living in Seattle and seeing open drug use firsthand motivated a closer look at the patterns behind the overdose crisis. Having come from Asia, where public drug use is far less visible, the scale of the issue stood out immediately. This project examines demographic risk factors including sex, race, and age to identify which groups face the greatest risk of fatal overdose.
 
